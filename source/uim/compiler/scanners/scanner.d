@@ -1,1 +1,4 @@
-module uim.compiler.scanners.scannr;
+module uim.compilers.scanners.scanner;
+
+@safe:
+import uim.compilers;
