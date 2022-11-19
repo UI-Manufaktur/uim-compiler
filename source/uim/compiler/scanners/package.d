@@ -1,1 +1,3 @@
-module uim.compiler.scanners;
+module uim.compilers.scanners;
+
+public import uim.compilers.scanners.scanner;
