@@ -1,1 +1,1 @@
-module uim.compiler.lexer;
+module uim.compilers.lexer;
