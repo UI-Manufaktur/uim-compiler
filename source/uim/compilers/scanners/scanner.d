@@ -1,7 +1,7 @@
 module uim.compilers.scanners.scanner;
 
-@safe:
 import uim.compilers;
+@safe:
 
 class DScanner {
   this() {}

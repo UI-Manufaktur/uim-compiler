@@ -1,7 +1,7 @@
-module uim.compilers.lexer;
+module uim.compilers.lexers.lexer;
 
-@safe:
 import uim.compilers;
+@safe:
 
 class DLexer {
   this() {

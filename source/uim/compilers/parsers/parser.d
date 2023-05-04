@@ -1,7 +1,7 @@
-module uim.compiler.parsers.parser;
+module uim.compilers.parsers.parser;
 
-@safe:
 import uim.compilers;
+@safe:
 
 class DParser {
   this() {
