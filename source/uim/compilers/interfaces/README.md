@@ -1,4 +1,4 @@
-# Package 📦 uim.compilers
+# Package 📦 uim.compilers.interfaces
 
 ## Packages
 
